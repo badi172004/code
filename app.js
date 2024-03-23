@@ -4,7 +4,7 @@ import { leftDiv } from "./info.js"
 
 const dataOne = {
     title:      "IAN COMPILATION",
-    para:       "A Project Dog is the dog that presents you with significant behavioural problems. Maybe the dog came to you with issues, maybe you created the issues, or maybe the dog developed them over time. Regardless of how it happened, now you have a Project Dog.”",
+    para:       "Hi.my name is Edrian Sino i am glad to see you i enjoy my course as a BSIT student i want to learn more and improve my brain and explore about javascript.”",
     button:     "Contact me",
     image:      "ian.jpg"
 }
